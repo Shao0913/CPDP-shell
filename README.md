@@ -1,6 +1,6 @@
 Project 1: A Simplified Unix Shell Program
 
-Author: Yuanhang Shao (ys18c@my.fsu.edu)
+Author: Yuanhang Shao 
 
 Achieved features:
  - This shell support four built-in commands "exit", "cd", and "pwd", "set", and "help"
